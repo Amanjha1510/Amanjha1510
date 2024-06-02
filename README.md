@@ -2,7 +2,7 @@
 👀 I’m interested in software development, particularly in Frontent technologies and data structures.
 🌱 I’m currently learning advanced Java programming.
 💞️ I’m looking to collaborate on open-source projects related to Frontend development.
-📫 How to reach me: You can reach me via email at amanjha@example.com or connect with me on LinkedIn , Instagram ..
+📫 How to reach me: You can reach me via email at amanjha7048@example.com or connect with me on LinkedIn , Instagram ..
 😄 Pronouns: He/Him
 ⚡ Fun fact: I love coding.. 👀
 
